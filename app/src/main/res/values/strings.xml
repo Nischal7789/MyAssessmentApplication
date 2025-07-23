@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Assssment Application</string>
+    <string name="welcome_message">Welcome to the NIT3213 Login Page!</string>
+    <string name="hint_username">First Name</string>
+    <string name="hint_password">Student ID</string>
+    <string name="login">Login</string>
+    <string name="dashboard_title">Your Dashboard</string>
+
+</resources>

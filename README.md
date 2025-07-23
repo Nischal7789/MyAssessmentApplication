@@ -97,6 +97,6 @@ Included in `build.gradle.kts`:
 
 ## 🙌 Author
 
-**Tanvir Islam Fahad**  
-Student ID: `s8136414`  
-GitHub: [github.com/devtanvir388](https://github.com/devtanvir388)
+Nischal Gautram 
+Student ID: `s8187282`  
+GitHub: https://github.com/Nischal7789/MyAssessmentApplication?tab=readme-ov-file#readme

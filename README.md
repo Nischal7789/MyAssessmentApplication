@@ -97,6 +97,6 @@ Included in `build.gradle.kts`:
 
 ## 🙌 Author
 
-Nischal Gautram 
+Nischal Gautam 
 Student ID: `s8187282`  
 GitHub: https://github.com/Nischal7789/MyAssessmentApplication?tab=readme-ov-file#readme
